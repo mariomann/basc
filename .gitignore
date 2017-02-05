@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# PyCharm IDE
+.idea/
+
+#basc.io
+basc/figo.config.yml

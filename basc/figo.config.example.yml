@@ -1,0 +1,5 @@
+figo:
+    username: max.mustermann@example.com
+    password: enter_your_password_here
+    clientId: enter_your_figo_client_id_here
+    secret: enter_your_figo_secret_here
